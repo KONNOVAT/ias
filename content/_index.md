@@ -18,6 +18,9 @@ sections:
         icon: rocket-launch
       announcement:
         text: "Новая версия интерфейса на подходе"
+        link:
+          text: "Read more"
+          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -36,13 +39,16 @@ sections:
       items:
         - statistic: "1M+"
           description: |
-            Параметров
+            Websites built  
+            with Hugo Blox
         - statistic: "10k+"
           description: |
-            Настроек
-        - statistic: "500+"
+            GitHub stars  
+            since 2016
+        - statistic: "3k+"
           description: |
-            Функций
+            Discord community  
+            for support
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
