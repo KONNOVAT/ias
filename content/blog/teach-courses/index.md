@@ -1,7 +1,7 @@
 ---
-title: 👩🏼О нашей компании
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: О нашей компании
+summary: LLM INTEGRATION
+date: 2025-04-25
 math: true
 authors:
   - admin
@@ -10,11 +10,8 @@ tags:
   - Hugo Blox Builder
   - Markdown
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Подготовка LLM-специалистов'
 ---
-
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
-
 
 **Компания "LLM INTEGRATION" занимается разработкой интеграции больших языковых моделей (LLM) в различные системы и приложения. Основная цель компании — помочь бизнесам и организациям использовать мощные возможности LLM для автоматизации процессов, улучшения взаимодействия с клиентами и повышения эффективности работы.**
 
@@ -40,4 +37,3 @@ image:
 
 Компания "LLM INTEGRATION" стремится быть на переднем крае технологий, предлагая своим клиентам инновационные решения, которые помогают им адаптироваться к быстро меняющемуся миру цифровых технологий.
 
-## Did you find this page helpful? Consider sharing it 🙌
