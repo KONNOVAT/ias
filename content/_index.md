@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Оптимизируй свою систему вместе с LLM-INTEGRATION 
+      text: 🧱 ПРОСТО. СВОБОДНО. БЕЗ ТРУДНОСТЕЙ 🧱
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -20,7 +20,7 @@ sections:
         text: Read the docs
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Новая версия интерфейса на подходе"
         link:
           text: "Read more"
           url: "/blog/"
@@ -42,16 +42,13 @@ sections:
       items:
         - statistic: "1M+"
           description: |
-            Websites built  
-            with Hugo Blox
+            Параметров
         - statistic: "10k+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Настроек
+        - statistic: "500+"
           description: |
-            Discord community  
-            for support
+            Функций
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -96,7 +93,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
-            text: Get Started
+            text: Узнать больше
             url: https://hugoblox.com/templates/
         - title: Контроль
           text: Вы сможете контролировать своих аналитиков, так как система проста!
@@ -108,7 +105,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
-            text: Join Discord
+            text: Присоединиться
             url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
@@ -122,7 +119,7 @@ sections:
           role: "Marketing Executive at X"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+          text: "Моя компания расцвела с приходом в неё LLM-INTEGRATION"
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
