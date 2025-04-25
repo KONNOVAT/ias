@@ -116,7 +116,7 @@ sections:
       text: ""
       items:
         - name: "Мария Иванова"
-          role: "Маркетолог компании МДМ-СИСТЕМС"
+          role: "Маркетолог компании МАРС-СИСТЕМС"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
           text: "Моя компания расцвела с приходом в неё LLM-INTEGRATION"
