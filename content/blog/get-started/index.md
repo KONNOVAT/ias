@@ -27,8 +27,6 @@ tags:
 Интеграция LLM с CRM-системами позволяет анализировать большие объемы данных о клиентах, выявлять тренды и делать предсказания о потребностях клиентов. 
 Это помогает бизнесу предлагать персонализированные решения и улучшать свои предложения.
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
-
 ## Лёгкость работы
 
 С помощью LLM можно автоматически генерировать маркетинговые материалы, такие как письма, посты в социальных сетях и описания продуктов. 
