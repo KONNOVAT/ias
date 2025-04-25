@@ -64,30 +64,30 @@ sections:
       title: Features
       text: Build your site with blocks 🧱
       items:
-        - name: Optimized SEO
+        - name: Оптимизация CRM
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Оптимизируйте систему под ваши потребности
+        - name: Быстрые решения
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: Быстрое создание софта
+        - name: Просто в использовании
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+          description: Используйте систему без заморочек
+        - name: Возможность проф. роста
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: Теперь не нужно тратить время на бесполезную рутину
+        - name: Высокая продуктивность сотрудников
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: Ваши сотрудники скажут вам "Спасибо"
+        - name: Удобство использования
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Используйте систему удобно
   - block: cta-image-paragraph
     id: solutions
     content:
       items:
-        - title: Build your future-proof website
-          text: As easy as 1, 2, 3!
+        - title: Оптимизируйте вашу систему
+          text: 1, 2, 3!
           feature_icon: check
           features:
             - "Future-proof - edit your content in text files"
@@ -129,8 +129,8 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Построй систему мечты вместе с нами!
+      text: Просто, как  1, 2, 3!
       button:
         text: Get Started
         url: https://hugoblox.com/templates/
