@@ -1,5 +1,5 @@
 ---
-title: 'Главная.'
+title: 'Главная'
 date: 2025-04-25
 type: landing
 
