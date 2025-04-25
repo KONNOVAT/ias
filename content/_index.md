@@ -128,9 +128,6 @@ sections:
     content:
       title: Построй систему мечты вместе с нами!
       text: Просто, как  1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
     design:
       card:
         # Card background color (CSS class)
