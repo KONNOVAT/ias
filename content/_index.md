@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Главная'
+date: 2025-04-25
 type: landing
 
 design:
@@ -13,17 +13,11 @@ sections:
       title: Оптимизируй свою систему вместе с LLM-INTEGRATION 
       text: 🧱 ПРОСТО. СВОБОДНО. БЕЗ ТРУДНОСТЕЙ 🧱
       primary_action:
-        text: Get Started
+        text: Начать
         url: https://hugoblox.com/templates/
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
       announcement:
         text: "Новая версия интерфейса на подходе"
-        link:
-          text: "Read more"
-          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -115,8 +109,8 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
+        - name: "Мария Иванова"
+          role: "Маркетолог компании "МДМ-СИСТЕМС"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
           text: "Моя компания расцвела с приходом в неё LLM-INTEGRATION"
