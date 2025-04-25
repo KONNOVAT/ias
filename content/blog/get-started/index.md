@@ -81,4 +81,6 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 ## License
 
-Все права защищены [Татьяна Коннова](https://github.com/KONNOVAT)
+Copyright 2016-prьesent [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
