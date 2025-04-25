@@ -12,9 +12,8 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
-
-Use popular tools such as Plotly, Mermaid, and data frames.
+LLM могут автоматически обрабатывать входящие запросы клиентов, отвечая на часто задаваемые вопросы и предоставляя необходимую информацию в режиме реального времени. 
+Это позволяет сократить время ожидания и повысить уровень удовлетворенности клиентов.
 
 ## Charts
 
