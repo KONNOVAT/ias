@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Коннова Татьяна Алексеевна
 
 # Name pronunciation (optional)
 name_pronunciation: Коннова Татьяна Алексеевна

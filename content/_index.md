@@ -10,11 +10,11 @@ design:
 sections:
   - block: hero
     content:
-      title: Оптимизируй свою систему вместе с LLM-INTEGRATION 
+      title: Оптимизируй CRM вместе с LLM-INTEGRATION 
       text: 🧱 ПРОСТО. СВОБОДНО. БЕЗ ТРУДНОСТЕЙ 🧱
       primary_action:
         text: Начать
-        url: https://hugoblox.com/templates/
+        url: https://konnovat.github.io/ias/#solutions
         icon: rocket-launch
       announcement:
         text: "Новая версия интерфейса на подходе"
@@ -94,7 +94,7 @@ sections:
           image: build-website.png
           button:
             text: Узнать больше
-            url: https://hugoblox.com/templates/
+            url: https://konnovat.github.io/ias/#solutions
         - title: Контроль
           text: Вы сможете контролировать своих аналитиков, так как система проста!
           feature_icon: bolt

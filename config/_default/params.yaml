@@ -39,8 +39,8 @@ header:
       filename: "img.png"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Начать"
+      url: "https://konnovat.github.io/ias/#solutions"
     show_search: true
     show_theme_chooser: true
 
